@@ -1,0 +1,18 @@
+Notas de diseño
+	>> No debe exceder las dimensiones de la impresora
+	>> Debe tener dimensiones respecto a MMD
+	>> El uso de conectores mejoran el diseño del módulo
+	>> La lámina que sujeta los puentes H debe tener insertos
+	>> Los magnetos deben poder salir de la posición puesta
+	>> El uso de ABS es obligatorio en zonas cercanas a disipadores
+	>> Debe tener una cubierta para mejora estética & protección
+	>> Salidas adecuadas para jumpers y su respectiva protección
+	>> Espacio para debug de circuitería
+	>> Fusible para protección de circuitos
+	>> Botón que indique encendido
+	>> 
+
+MMD (Modular Mechanic Design)
+	>> Las dimensiones deben ser múltiplos de 20 mm 
+	>> Deben tener espacios para magnetos cada 20 mm
+	>> Entre más 
