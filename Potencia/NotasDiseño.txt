@@ -7,10 +7,14 @@ Notas de diseño
 	>> El uso de ABS es obligatorio en zonas cercanas a disipadores
 	>> Debe tener una cubierta para mejora estética & protección
 	>> Salidas adecuadas para jumpers y su respectiva protección
-	>> Espacio para debug de circuitería
+	>> Espacio para debug de circuitería (multímetro)
 	>> Fusible para protección de circuitos
 	>> Botón que indique encendido
-	>> 
+	>> Es importantísimo usar los cable correctos
+	>> AWG18 para los motores
+	>> AWG12 para la entrada de 12 V y GND
+	>> AWG22 para VCC (5V)
+
 
 MMD (Modular Mechanic Design)
 	>> Las dimensiones deben ser múltiplos de 20 mm 
