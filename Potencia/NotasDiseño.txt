@@ -17,6 +17,6 @@ Notas de diseño
 
 
 MMD (Modular Mechanic Design)
-	>> Las dimensiones deben ser múltiplos de 20 mm 
-	>> Deben tener espacios para magnetos cada 20 mm
+	>> Los modulos deben poder unirse facilmente
+	>> 
 	>> Entre más 
