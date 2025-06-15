@@ -1,0 +1,1 @@
+Con la simulación y la estructura que ya diseñamos en CAD, el diámetro de las llantas debe ser 8.5 [cm].
