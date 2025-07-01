@@ -2,3 +2,4 @@ ST-Name-Type
 
 Strcture:	ST
 Power: 		PW
+Wheel:		WH
