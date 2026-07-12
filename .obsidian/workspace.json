@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c412770a9c1768b8",
+        "id": "7b4d67899d8f048f",
         "type": "tabs",
         "children": [
           {
-            "id": "f1479a6729727444",
+            "id": "9b4ac2b148a3916c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Hardware/MotoresEncoder.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "MotoresEncoder"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documentación/Hardware/PuenteH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de PuenteH"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documentación/Hardware/PuenteH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de PuenteH"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Documentación/Hardware/PuenteH.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de PuenteH"
             }
           }
         ]
@@ -176,8 +183,31 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "3223a30e74257fa4",
+  "active": "9b4ac2b148a3916c",
   "lastOpenFiles": [
+    "Documentación/Hardware/ESP32_Motores.md",
+    "Documentación/Hardware/MotoresEncoder.md",
+    "Documentación/Images/PinoutEncoder.png",
+    "Documentación/Hardware/ESP32.md",
+    "Documentación/Images/HBridgeMotorsMicroConnection.png",
+    "Documentación/Hardware/PuenteH.md",
+    "Documentación/Software/EncoderMotorPID.md",
+    "Documentación/Images/Pasted image 20260711180152.png",
+    "Documentación/Images/Pasted image 20260711175926.png",
+    "Documentación/Software/EncoderMotorPID",
+    "Documentación/Mecánica",
+    "Documentación/Images/Pasted image 20260710175956.png",
+    "Documentación/Hardware/ESP32-Motores.md",
+    "Documentación/Hardware/Puente H L298N.md",
+    "Documentación/Motores.md",
+    "Documentación/Software",
+    "Documentación/Sin título.md",
+    "Documentación/Hardware",
+    "Documentación/Images/Pasted image 20260710162732.png",
+    "Documentación/Motores.md.md",
+    "Documentación/Images/Pasted image 20260710163152.png",
+    "Documentación/Images",
+    "SandoPotenciaComponentes.pdf",
     "Documentación"
   ]
 }
