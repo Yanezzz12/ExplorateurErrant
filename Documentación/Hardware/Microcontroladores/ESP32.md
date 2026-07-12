@@ -2,16 +2,14 @@
 
 El ESP32 es un microcontrolador de 32 bits desarrollado por Espressif Systems, diseñado para aplicaciones de sistemas embebidos, Internet de las Cosas (IoT), automatización y robótica. Incorpora un procesador de doble núcleo con una frecuencia de operación de hasta 240 MHz, conectividad Wi-Fi y Bluetooth integradas, además de una amplia variedad de periféricos, como entradas y salidas digitales, conversores analógico-digitales (ADC), convertidores digital-analógicos (DAC), temporizadores, interfaces de comunicación y módulos PWM. 
 
-
 ## Índice
 
 - [Características](#características)
 - [Mapa de pines](#pinout)
-- [Pines PWM](#pines-pwm)
+- [Pines PWM](#pinesPWM)
 - [Resolución PWM](#resolución)
-- [Ejemplo PWM](#implementación-base)
-- [Evitar pines](#evitar-pines)
-
+- [Ejemplo PWM](#implementación)
+- [Evitar pines](#PinesEvitar)
 
 ## Características
 
@@ -39,11 +37,11 @@ Notas:
 
 ## PINOUT
 
-![[Pasted image 20260711180152.png|697]]
+![[Pinout1-ESP32.png]]
 
-![[Pasted image 20260711175926.png]]
+![[Pinout2-ESP32.png]]
 
-## Pines PWM
+## PinesPWM
 
 El ESP32 tiene 16 canales PWM independientes:
 
@@ -81,8 +79,9 @@ No es recomendable utilizar la resolución máxima del PWM del microcontrolador,
 | 16 bits    | 65 536    | -               |
 | 20 bits    | 1 048 576 | -               |
 
-
 ### Implementación
+
+Implementación base:
 
 ```c
 const int motorPWM = 18;
@@ -101,7 +100,7 @@ void loop()
 }
 ```
 
-Implementación para motores
+Implementación para motores:
 
 ```c
 const int motorPWM = 18;
@@ -129,7 +128,7 @@ void loop()
 }
 ```
 
-### Evitar pines
+## PinesEvitar
 
 - **GPIO 34, 35, 36 y 39**: **Solo de entrada**, por lo que **no pueden generar PWM**.
 - **GPIO 6 al 11**: Conectados a la memoria flash interna y no deben usarse.

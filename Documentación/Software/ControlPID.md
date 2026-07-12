@@ -7,11 +7,10 @@ Descripción de procedimiento de implementación de control PID de velocidad sob
 - 
 
 # Componentes
-- Motores con encoder [Motores](../Hardware/MotoresEncoder.md)
+- Motores con encoder [Motores](EncoderMDC.md)
 - Fuente de voltaje
-- Puente H L298N [Puente H](../Hardware/PuenteH.md)
-- Microcontrolador [ESP32](../Hardware/ESP32.md)
+- Puente H L298N [Puente H](PuenteH.md)
+- Microcontrolador [ESP32](ESP32.md)
+- [Cableado Sistema de movimiento](..//Hardware/Cableado/C-SistemaMovimiento.md)
 
-
-
-Continuar documentación
+Continuar documentación...
