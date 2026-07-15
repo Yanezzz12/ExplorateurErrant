@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d91cf699b0550073",
+        "id": "8ead2543fbb2174b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a12a92ede59995f",
+            "id": "fd7ad99ab78b9e7b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Documentación/Hardware/Actuadores/MotorDC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MotorDC"
             }
           }
         ]
@@ -179,18 +183,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "2a12a92ede59995f",
+  "active": "fd7ad99ab78b9e7b",
   "lastOpenFiles": [
+    "Documentación/Hardware/Microcontroladores/ESP32.md",
+    "Scripts/MotorPID/MotorPID.ino",
+    "Scripts/MotorPID",
+    "Scripts/MotorPID.ino",
+    "Scripts/PID.ino",
+    "Scripts/Nuevo Documento de texto.txt",
+    "Scripts",
+    "Nueva carpeta",
     "Documentación/Hardware/Cableado/C-SistemaMovimiento.md",
+    "Documentación/Software/ControlPID.md",
+    "Documentación/Hardware/MódulosControl/PuenteH.md",
+    "Documentación/Images/Cableado2Motores.png",
+    "Documentación/Hardware/Sensores/EncoderMDC.md",
     "Documentación/Hardware/Cableado/C-MotoresPWM.md",
     "Documentación/Hardware/Cableado/C-SistemaMovimiento",
     "Documentación/Hardware/Cableado/MotoresPWM.md",
-    "Documentación/Hardware/MódulosControl/PuenteH.md",
     "HBr.md",
-    "Documentación/Hardware/Sensores/EncoderMDC.md",
     "Documentación/Hardware/Actuadores/MotorDC.md",
     "Documentación/Hardware/Cableado/ESP32_Motores.md",
-    "Documentación/Hardware/Microcontroladores/ESP32.md",
     "Documentación/Images/DimensionesMotorDC.png",
     "Documentación/Hardware/Actuadores/MotoresDC.md",
     "Documentación/Images/MotorDC.png",
@@ -199,10 +212,6 @@
     "Documentación/Sin nombre",
     "Documentación/Hardware/Actuadores/DC Motor.md",
     "Documentación/Hardware/Cableado",
-    "Documentación/Hardware/MódulosControl",
-    "Documentación/Hardware/Microcontroladores",
-    "Documentación/Hardware/Actuadores",
-    "Documentación/Hardware/Sensores",
     "Documentación/Images/Pinout1-ESP32.png",
     "Documentación/Images/Pinout2-ESP32.png",
     "Documentación/Images/PinoutEncoder.png",
@@ -210,13 +219,9 @@
     "Documentación/Software/EncoderMotorPID.md",
     "Documentación/Images/Pasted image 20260711180152.png",
     "Documentación/Images/Pasted image 20260711175926.png",
-    "Documentación/Software/EncoderMotorPID",
-    "Documentación/Mecánica",
-    "Documentación/Images/Pasted image 20260710175956.png",
     "Documentación/Hardware/ESP32-Motores.md",
     "Documentación/Hardware/Puente H L298N.md",
     "Documentación/Motores.md",
-    "Documentación/Software",
     "Documentación/Sin título.md",
     "Documentación/Motores.md.md"
   ]

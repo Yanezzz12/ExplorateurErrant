@@ -11,6 +11,5 @@ Descripción de procedimiento de implementación de control PID de velocidad sob
 - Fuente de voltaje
 - Puente H L298N [Puente H](PuenteH.md)
 - Microcontrolador [ESP32](ESP32.md)
-- [Cableado Sistema de movimiento](..//Hardware/Cableado/C-SistemaMovimiento.md)
 
 Continuar documentación...

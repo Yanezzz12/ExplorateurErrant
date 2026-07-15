@@ -18,6 +18,7 @@ El modelo utilizado está acoplado con un [Encoder](../Sensores/EncoderMDC.md). 
 | :---------------------------- | :---------: | :------: |
 | Reducción                     |    45:1     |    1     |
 | Velocidad sin carga           |     140     |   RPM    |
+| Velocidad sin carga '         |    2.333    |   RPS    |
 | Corriente sin carga           |    ≤ 70     |    mA    |
 | Velocidad nominal             |     70      |   RPM    |
 | Corriente nominal             |    ≤ 0.8    |    A     |
@@ -25,7 +26,7 @@ El modelo utilizado está acoplado con un [Encoder](../Sensores/EncoderMDC.md). 
 | Corriente por bloqueo (stall) |     ≤ 2     |    A     |
 | Par de bloqueo (stall)        |     8.5     |  kg·cm   |
 | Resolución de sensor hall     | 493.9 ± 10% |   PPR    |
-| Peso                          | 0.093       |   kg     |
+| Peso                          |    0.093    |    kg    |
 
 ## Dimensiones
 
